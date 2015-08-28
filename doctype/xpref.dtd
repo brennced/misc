@@ -3,7 +3,7 @@
 <!-- 
 Doctype usage:
   <?xml version="1.0" encoding="utf-8" ?>
-  <!DOCTYPE xpref SYSTEM "xpref.dtd">
+  <!DOCTYPE xpref SYSTEM "http://brennced.github.io/misc/doctype/xpref.dtd">
 -->
 
 <!ELEMENT settings "settings">
