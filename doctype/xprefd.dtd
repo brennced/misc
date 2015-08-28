@@ -1,9 +1,11 @@
 <!-- Copyright (©) 2015 Brennced. All rights reserved. -->
 
+<!-- Document Type Definition for XPrefD (Extensible Markup Language Preferences Document)
+
 <!-- 
 Doctype usage:
   <?xml version="1.0" encoding="utf-8" ?>
-  <!DOCTYPE xpref SYSTEM "http://brennced.github.io/misc/doctype/xpref.dtd">
+  <!DOCTYPE xpref SYSTEM "http://brennced.github.io/misc/doctype/xprefd.dtd">
 -->
 
 <!ELEMENT settings "settings">
