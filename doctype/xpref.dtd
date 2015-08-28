@@ -1,0 +1,12 @@
+<!-- Copyright (©) 2015 Brennced. All rights reserved. -->
+
+<!-- 
+Doctype usage:
+  <?xml version="1.0" encoding="utf-8" ?>
+  <!DOCTYPE xpref SYSTEM "xpref.dtd">
+-->
+
+<!ELEMENT settings "settings">
+<!ELEMENT control "control" (which)>
+<!ELEMENT property "property">
+<!ELEMENT setting "setting" (name,value)>
